@@ -1,0 +1,24 @@
+{
+  "apiVersion": 2,
+  "name": "wptaskboard/kanban-board",
+  "title": "Kanban Task Board",
+  "description": "A drag-and-drop task management board with columns for To Do, In Progress, and Done.",
+  "category": "widgets",
+  "icon": "grid-view",
+  "supports": {
+    "html": false,
+    "align": ["wide", "full"]
+  },
+  "attributes": {
+    "boardTitle": {
+      "type": "string",
+      "default": "My Task Board"
+    },
+    "showAddButton": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style.css"
+}

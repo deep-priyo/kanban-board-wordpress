@@ -12,18 +12,18 @@ A modern, full-featured Kanban task management plugin for WordPress with Gutenbe
 ### Kanban Board in Action
 *Screenshot of the main kanban board*
 
-![Kanban Board Main View](screenshots/kanban-board-main.png)
+![Kanban Board Main View](./Screenshots/kanban-board-main.png)
 
 ### Gutenberg Block Editor
 *Screenshot showing the block in the WordPress editor*
 
-![Block Editor View](screenshots/block-editor.png)
+![Block Editor View](./Screenshots/block-editor.png)
 
 
 ### Mobile Responsive Design
 *Screenshot showing mobile layout*
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](./Screenshots/mobile-view.png)
 
 ## ✨ Features
 
